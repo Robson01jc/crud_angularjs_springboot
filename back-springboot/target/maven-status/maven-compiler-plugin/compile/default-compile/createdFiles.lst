@@ -1,0 +1,4 @@
+demo/Application.class
+demo/model/Person.class
+demo/config/MvcConfig.class
+demo/repository/PersonRepository.class
